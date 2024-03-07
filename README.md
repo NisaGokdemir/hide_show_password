@@ -19,7 +19,7 @@ The *Hide and Show Password* is a simple web component that enhances user experi
 <img src="./images/password.png" alt="" width="400" height="200">
 
 ## Live Demo 🌐
-Live Demo: 
+Live Demo: [Hide Show Password Demo](https://hide-show-password.vercel.app/)
 
 ## Installation
 No special installation is required for this project. Simply download the project files and open the `index.html` file in a web browser.
